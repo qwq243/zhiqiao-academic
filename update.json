@@ -2,18 +2,18 @@
   "ok": true,
   "id": "zhiqiao-academic",
   "name": "知桥",
-  "version": "0.15.0",
-  "zip": "https://github.com/qwq243/zhiqiao-academic/releases/download/v0.15.0/zhiqiao-academic.zip",
+  "version": "0.15.1",
+  "zip": "https://github.com/qwq243/zhiqiao-academic/releases/download/v0.15.1/zhiqiao-academic.zip",
   "zipLatest": "https://github.com/qwq243/zhiqiao-academic/releases/latest/download/zhiqiao-academic.zip",
   "page": "https://github.com/qwq243/zhiqiao-academic#readme",
   "standalone": {
     "name": "知桥学术台（独立包）",
-    "version": "0.15.0",
-    "zip": "https://github.com/qwq243/zhiqiao-academic/releases/download/v0.15.0/zhiqiao-academic-standalone.zip",
+    "version": "0.15.1",
+    "zip": "https://github.com/qwq243/zhiqiao-academic/releases/download/v0.15.1/zhiqiao-academic-standalone.zip",
     "zipLatest": "https://github.com/qwq243/zhiqiao-academic/releases/latest/download/zhiqiao-academic-standalone.zip",
     "readme": "https://github.com/qwq243/zhiqiao-academic#readme",
     "note": "解压 → 双击「启动学术台.cmd」。配置存在浏览器里，更新不会丢。"
   },
   "notes": "Chrome/Edge 加载已解压的扩展。学号口令、Key、下载目录在「打开学术台 → 配置中心」里填一次即可（弹窗只放开关和快捷操作）。",
-  "at": "2026-10-02T06:46:57.524Z"
+  "at": "2026-10-02T06:48:43.008Z"
 }
